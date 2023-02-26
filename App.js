@@ -2,7 +2,7 @@ import { Text, View, Button, TextInput, Switch, Alert, ScrollView } from 'react-
 import { useState } from 'react';
 import NumericInput from 'react-native-numeric-input';
 import { RadioButton } from 'react-native-paper';
-import { darkstyle, lightstyle } from '../alkkomeeter/styles/style'
+import { darkstyle, lightstyle } from '../alcometer-main/styles/style'
 
 
 export default function BACCalculator() {
